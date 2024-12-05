@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **hariharanrameshbabu2004@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ACciOWRmQUl546WDAgi95LJ3EYubHXDY/edit?rtpof=true](https://docs.google.com/document/d/1ACciOWRmQUl546WDAgi95LJ3EYubHXDY/edit?rtpof=true)
-
 - ⚡ Fun fact **I spend my mornings cracking codes and my evenings lifting weights—balancing brains and brawn!**
 
 <h3 align="left">Connect with me:</h3>
