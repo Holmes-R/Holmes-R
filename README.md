@@ -1,9 +1,8 @@
-
-# 💫 About Me:
 <h1 align="center">Hi , I'm Hari haran.R</h1>
 <h3 align="center">Cyber Security Enthusiast | Back-End Developer</h3>
 🔭 I'm currently working in the cybersecurity domain.<br>💬 Ask me how I would optimize back-end systems or enhance cybersecurity<br>⚡ I spend my mornings cracking codes and my evenings lifting weights—balancing brains and brawn!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=holmes-r&label=Profile%20views&color=0e75b6&style=flat" alt="holmes-r" /> </p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/holmes-hari-haran/) 
@@ -19,3 +18,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Holmes-R&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=holmes-r&label=Profile%20views&color=0e75b6&style=flat" alt="holmes-r" /> </p>
