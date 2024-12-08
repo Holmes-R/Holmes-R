@@ -1,11 +1,11 @@
 
-<img align="right" alt="Coding" width=400 src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif  ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=holmes-r&label=Profile%20views&color=0e75b6&style=flat" alt="holmes-r" /> </p>
 # 💫 About Me:
 🔭 I'm currently working in the cybersecurity domain.<br>💬 Ask me how I would optimize back-end systems or enhance cybersecurity<br>⚡ I spend my mornings cracking codes and my evenings lifting weights—balancing brains and brawn!
 <h1 align="center">Hi , I'm Hari haran.R</h1>
 <h3 align="center">Cyber Security Enthusiast | Back-End Developer</h3>
 
+<img align="right" alt="Coding" width=400 src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif  ">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=holmes-r&label=Profile%20views&color=0e75b6&style=flat" alt="holmes-r" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/holmes-hari-haran/) 
@@ -19,8 +19,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Holmes-R&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Holmes-R&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
