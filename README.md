@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJiN2o4OGxtYnI0dmtqYzJuMTQzdzlhN2lveTQwb2RkcDc2aWw1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJiN2o4OGxtYnI0dmtqYzJuMTQzdzlhN2lveTQwb2RkcDc2aWw1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="240"/>
 </div>
 <h1 align="center">
   Hello World, I'm Hari haran.R
