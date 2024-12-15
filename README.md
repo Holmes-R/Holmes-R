@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJiN2o4OGxtYnI0dmtqYzJuMTQzdzlhN2lveTQwb2RkcDc2aWw1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="200"/>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=holmes-r&label=Profile%20views&color=0e75b6&style=flat" alt="holmes-r" /> </p>
+
 <h1 align="center">
   Hello World, I'm Hari haran.R
 </h1>
@@ -24,4 +26,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Holmes-R&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=holmes-r&label=Profile%20views&color=0e75b6&style=flat" alt="holmes-r" /> </p>
