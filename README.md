@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="[YOUR_GIF_URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ni3DQyLMrwQDu3jrTXJkZ&ust=1734356409202000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjqv5_zqYoDFQAAAAAdAAAAABAE)" alt="wave" width="50" height="50"> 
+    <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ni3DQyLMrwQDu3jrTXJkZ&ust=1734356409202000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjqv5_zqYoDFQAAAAAdAAAAABAE)" alt="wave" width="50" height="50"> 
   Hello World, I'm Hari haran.R</h1>
 <h3 align="center">Cyber Security Enthusiast | Back-End Developer</h3>
 <br></br>
