@@ -12,7 +12,7 @@
 💬 Ask me how I would optimize back-end systems or enhance cybersecurity<br>
 ⚡ I spend my mornings cracking codes and my evenings lifting weights—balancing brains and brawn!
 
-
+Ikomarev.com/gh'm a proactive and curiouspvc/? individual whousername= enjoys solving complex problemsHolmes-R) [![ using programming. I'mGitHub followers always on](https:// the lookoutimg.shields for new challenges and.io/github/followers opportunities to/Holmes learn. Although I don't-R?style have much=social)] information on(https:// my bio or social mediagithub.com presence, my GitHub/Holmes-R) [ activity speaks![GitHub for itself. Let's](https:// dive intoimg.shields my projects.io/badge and contributions/-GitHub!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/holmes-hari-haran/) 
 # 💻 Tech Stack:
