@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/holmes-hari-haran/) 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,debian,django,fastapi,github,html,linux,mongodb,mysql,notion,postman,py,sqlite,tailwind,ubuntu,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,bootstrap,tailwind,django,fastapi,mongodb,mysql,sqlite,c,cpp,css,debian,django,fastapi,github,html,linux,mongodb,mysql,notion,postman,py,sqlite,tailwind,ubuntu,vscode,wordpress)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Holmes-R&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Holmes-R&theme=github_dark_dimmed&hide_border=false)<br/>
