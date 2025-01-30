@@ -20,7 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,bootstrap,tailwind,django,fastapi,mongodb,mysql,sqlite,debian,github,linux,notion,postman,ubuntu,vscode,wordpress)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Holmes-R&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Holmes-R&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Holmes-R&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
