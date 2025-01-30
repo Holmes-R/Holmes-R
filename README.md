@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-https://icons8.com/icon/kFJzAZryEscq/linkedin-circled(https://linkedin.com/in/https://www.linkedin.com/in/holmes-hari-haran/) 
+(https://icons8.com/icon/kFJzAZryEscq/linkedin-circled)(https://linkedin.com/in/https://www.linkedin.com/in/holmes-hari-haran/) 
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,bootstrap,tailwind,django,fastapi,mongodb,mysql,sqlite,debian,github,linux,notion,postman,ubuntu,vscode,wordpress)](https://skillicons.dev)
