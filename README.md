@@ -12,13 +12,9 @@
 ⚡ I spend my mornings cracking codes and my evenings lifting weights—balancing brains and brawn!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/holmes-hari-haran/) 
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,bootstrap,tailwind,django,fastapi,mongodb,mysql,sqlite,debian,github,linux,notion,postman,ubuntu,vscode,wordpress)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Holmes-R&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Holmes-R&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
